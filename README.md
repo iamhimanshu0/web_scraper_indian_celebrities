@@ -1,4 +1,4 @@
-# web_scraper_indian_celebrities
+# web_scraper_for_indian_celebrities
 Crawl Popular websites and create a database of indian movie celebrities with their images and personality traits
 
 
@@ -10,4 +10,3 @@ Crawl Popular websites and create a database of indian movie celebrities with th
 ## There are two files 
 - indian_movie.ipynb
 - indian_movie.py
-
